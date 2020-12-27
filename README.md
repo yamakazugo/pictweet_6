@@ -4,7 +4,7 @@
 
 | Column             | Type                | Options                 |
 |--------------------|---------------------|-------------------------|
-| name               |                     | null: false             |
+| nickname               |                     | null: false             |
 | email              |                     | null: false             |
 
 ### Association
